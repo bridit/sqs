@@ -2,9 +2,10 @@
 
 namespace Brid\Sqs;
 
+use Brid\Core\Handlers\Handler;
 use Throwable;
 
-abstract class SqsHandler
+abstract class SqsHandler extends Handler
 {
 
   /**
