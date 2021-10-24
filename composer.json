@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": "^8.0",
-    "async-aws/sqs": "^1.0",
+    "async-aws/sqs": "^1.6",
     "bridit/core": "^1.0"
   },
   "require-dev": {
